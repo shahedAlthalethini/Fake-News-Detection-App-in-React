@@ -3,8 +3,8 @@
 A web application built with React and a Python NLP backend to classify news articles as "Real" or "Fake". Users can paste the text of a news article, and the machine learning model will provide a prediction on its authenticity.
 
 
-*<img width="1410" height="804" alt="image" src="https://github.com/user-attachments/assets/392a4c7d-19e3-450e-8b3b-436d52ff3a78" />
-*
+<img width="1410" height="804" alt="image" src="https://github.com/user-attachments/assets/392a4c7d-19e3-450e-8b3b-436d52ff3a78" />
+
 
 ## Features 
 
