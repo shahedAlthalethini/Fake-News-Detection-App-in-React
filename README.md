@@ -1,4 +1,4 @@
-# Fake News Detection App and Natural Language Processing 📰🤖
+# Fake News Detection App and Natural Language Processing 
 
 A web application built with React and a Python NLP backend to classify news articles as "Real" or "Fake". Users can paste the text of a news article, and the machine learning model will provide a prediction on its authenticity.
 
